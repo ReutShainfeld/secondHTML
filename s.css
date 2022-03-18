@@ -1,0 +1,14 @@
+.c6 {
+  background-color: rgb(247, 163, 130);
+  color: rgb(124, 63, 6);
+  font-size: 40px;
+}
+.c7{  
+    background-color: rgb(148, 247, 247);
+    color: rgb(0, 111, 126);
+    font-size: 50px;
+    font-family:unset;
+    box-shadow: 10px 10px 40px 10px #0ff;
+    border-radius: 25%;
+    
+}
